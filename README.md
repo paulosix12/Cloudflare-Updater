@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pode fazer um readme para o git tambem ?
 
 Claro! Aqui está um exemplo de README.md para o seu projeto, focado em desenvolvedores e com uma linguagem acessível para a comunidade:
@@ -113,3 +114,7 @@ Boas automações! 🚀
 
 Se quiser personalizar ainda mais, me avise!
 
+=======
+# Cloudflare-Updater
+Script escrito em Node JS para atualizar IP dinamico no dominio
+>>>>>>> main
