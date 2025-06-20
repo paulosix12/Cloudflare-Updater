@@ -100,14 +100,3 @@ MIT — faça bom uso!
 Abra uma issue ou mande um comentário!
 
 ---
-
-Boas automações! 🚀
-
----
-
-Se quiser personalizar ainda mais, me avise!
-
-=======
-# Cloudflare-Updater
-Script escrito em Node JS para atualizar IP dinamico no dominio
->>>>>>> main
