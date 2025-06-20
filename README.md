@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 # Pode fazer um readme para o git tambem ?
 
 Claro! Aqui está um exemplo de README.md para o seu projeto, focado em desenvolvedores e com uma linguagem acessível para a comunidade:
