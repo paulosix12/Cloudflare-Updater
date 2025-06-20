@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-# Pode fazer um readme para o git tambem ?
-
-Claro! Aqui está um exemplo de README.md para o seu projeto, focado em desenvolvedores e com uma linguagem acessível para a comunidade:
-
----
-
 # Cloudflare Dynamic DNS Updater
 
 Atualize automaticamente o IP dos seus subdomínios no Cloudflare usando Node.js e Docker. Ideal para quem tem IP dinâmico em casa e quer acessar serviços remotamente, sem depender de soluções pagas.
